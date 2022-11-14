@@ -1,6 +1,6 @@
 /********************************************
 date:      "13.11.2022"
-authors:      "DmitrijP1402 & Nico0123456"
+authors:   "DmitrijP1402 & Nico0123456"
 filename:  "webserver_id_score.ino"
 ********************************************/
 
